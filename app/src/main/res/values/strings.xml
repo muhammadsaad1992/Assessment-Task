@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assessment Task</string>
+
+    <!--Test Ids-->
+    <string name="admobNative">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="admobInterstitial">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="welcome_to_the_task">Welcome To The Task :)</string>
+</resources>
